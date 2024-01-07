@@ -21,7 +21,7 @@ def extract_url_from_html(query, page_limit):
     for page_num in range(page_limit):
         url = f"https://www.google.com/search?q={query}&start={page_num * 10}"
         browser.get(url)
-        time.sleep(20)  # Let the page load and manually observe
+        time.sleep(20)  
 
         elements = browser.find_elements('css selector', 'span[jscontroller="msmzHf"] a[jsname="UWckNb"]')
         
