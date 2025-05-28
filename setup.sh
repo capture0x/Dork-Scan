@@ -4,7 +4,7 @@
 set -e  
 
 echo "[*] Downloading chromedriver..."
-curl -L -O https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6099.109/linux64/chromedriver-linux64.zip
+curl -L -O https://github.com/dreamshao/chromedriver/blob/main/132.0.6834.83%20chromedriver-linux64.zip
 
 if [ ! -f chromedriver-linux64.zip ]; then
     echo "[!] Download failed: chromedriver-linux64.zip not found"
