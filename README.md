@@ -30,7 +30,11 @@ chmod -R 755 sel-google.py
 ```
 
 ```bash
-python3 sel-google.py
+sudo apt update && sudo apt install python3 python3-venv -y
+python3 -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
+python3 dorkscan.py
 
 ```
 THIS IS FOR LATEST GOOGLE CHROME VERSION
