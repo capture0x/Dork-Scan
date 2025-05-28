@@ -24,9 +24,9 @@ Note: Use this tool responsibly and ensure compliance with legal and ethical sta
 ```bash
 git clone https://github.com/capture0x/Dork-Scan/
 cd Dork-Scan
-bash setup.sh
-pip3 install -r requirements.txt
-chmod -R 755 sel-google.py
+chmod +x setup.sh
+sudo ./setup.sh
+
 ```
 
 ```bash
