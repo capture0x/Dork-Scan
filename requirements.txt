@@ -1,0 +1,6 @@
+selenium>=4.33.0
+undetected-chromedriver
+chromedriver-autoinstaller
+fake-useragent
+pyfiglet
+colorama
