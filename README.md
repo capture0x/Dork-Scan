@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/capture0x/Dork-Scan/refs/heads/main/IMG_2597.jpg" width="70%"></img>
+<img src="https://raw.githubusercontent.com/capture0x/Dork-Scan/refs/heads/main/IMG_2597.jpg" width="90%"></img>
 
-# 🍀 &nbsp;  Dork Scan TOOL  &nbsp;  🍀
+## 🍀 &nbsp;  Dork Scan TOOL  &nbsp;  🍀
 
 Dork scanning, also known as Google Dorking, involves using advanced search queries to discover sensitive or vulnerable information exposed on the internet. These queries, known as "dorks," are crafted to pinpoint specific information on search engines like Google.
 
