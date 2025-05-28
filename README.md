@@ -44,5 +44,5 @@ THIS IS FOR LATEST GOOGLE CHROME VERSION
 
 For bug reports or enhancements, please open an [issue](https://github.com/capture0x/Dork-Scan/issues) here.
 
-**Copyright 2024**
+**Copyright 2025**
 
